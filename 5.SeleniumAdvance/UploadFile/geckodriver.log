@@ -1,0 +1,11 @@
+1670763682098	geckodriver	INFO	Listening on 127.0.0.1:63900
+1670763685183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilexGYsbg"
+1670763685784	Marionette	INFO	Marionette enabled
+1670763685790	Marionette	INFO	Listening on port 63910
+Read port: 63910
+WebDriver BiDi listening on ws://127.0.0.1:63901
+1670763685963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilexGYsbg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63901/devtools/browser/7ce113b6-1abc-47f4-992f-c8cd0f579b54
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://the-internet.herokuapp.com."
+1670763699276	Marionette	INFO	Stopped listening on port 63910

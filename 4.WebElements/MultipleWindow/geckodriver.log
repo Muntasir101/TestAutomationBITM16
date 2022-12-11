@@ -8,9 +8,10 @@ WebDriver BiDi listening on ws://127.0.0.1:50988
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileeiHYoc\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:50988/devtools/browser/ff50debe-cd60-43c3-8299-82362153174b
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:51117
-1670418973466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileE2ZAtr"
-1670418974055	Marionette	INFO	Marionette enabled
+1670422521233	Marionette	INFO	Stopped listening on port 50999
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te	INFO	Marionette enabled
 1670418974063	Marionette	INFO	Listening on port 51131
 Read port: 51131
 WebDriver BiDi listening on ws://127.0.0.1:51118
@@ -45,22 +46,21 @@ JavaScript warning: https://player.vimeo.com/video/646419288?h=0e64d73102&badge=
 JavaScript error: https://www.orangehrm.com/_resources/themes/orangehrm/dist/main.js, line 61: TypeError: r(...).popover is not a function
 JavaScript error: https://www.orangehrm.com/_resources/themes/orangehrm/dist/main.js, line 34: ReferenceError: oldInputs is not defined
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:52212
-1670419699952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile1wwFZh"
-1670419700600	Marionette	INFO	Marionette enabled
-1670419700609	Marionette	INFO	Listening on port 52225
-Read port: 52225
-WebDriver BiDi listening on ws://127.0.0.1:52213
-1670419700824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile1wwFZh\\search.json.mozlz4", (void 0)))
+1670422522095	Marionette	INFO	Stopped listening on port 51923
+[Parent 16920, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[Parent 16920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile1wwFZh\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:52213/devtools/browser/d5f18358-59c8-4bbf-a855-621a793ee8a0
 JavaScript warning: https://player.vimeo.com/video/646419288?h=0e64d73102&badge=0&autopause=0&player_id=0&app_id=58479, line 1: unreachable code after return statement
 JavaScript warning: https://player.vimeo.com/video/646419288?h=0e64d73102&badge=0&autopause=0&player_id=0&app_id=58479, line 1: unreachable code after return statement
 JavaScript error: https://www.orangehrm.com/_resources/themes/orangehrm/dist/main.js, line 61: TypeError: r(...).popover is not a function
 JavaScript error: https://www.orangehrm.com/_resources/themes/orangehrm/dist/main.js, line 34: ReferenceError: oldInputs is not defined
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:52558
-1670419910779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileZAbR2l"
+1670422523086	Marionette	INFO	Stopped listening on port 52225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileZAbR2l"
 1670419911447	Marionette	INFO	Marionette enabled
 1670419911456	Marionette	INFO	Listening on port 52570
 Read port: 52570
